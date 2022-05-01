@@ -1,0 +1,1 @@
+this is the repo of exercises of 3D Scanning & Motion Capture (IN2354)
